@@ -6,5 +6,6 @@ Integrantes: **COMPLETAR ACA**
 
 # Enunciado
 
-Parte 1: https://docs.google.com/document/d/1p4rr0urqdFyT-nd23IOXxNx9FiAd1pzvjPqnJiYWl70/edit?usp=sharing
-Fecha de entrega: 23/09
+Parte 1: https://docs.google.com/document/d/1y71K0ieaGKcKhyIKeJPi7qIpbOXOCpo0jOdLOAH98oY/edit?usp=sharing
+Fecha de entrega: 9/10
+
